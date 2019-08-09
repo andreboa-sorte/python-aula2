@@ -2,7 +2,7 @@
 #anos ou não. Receba os dados pela console e chame este método. (modifique este
 #exercício para receber 5 alunos, 3 notas para cada um e calcule a média mostrando se
 #está aprovado ou não)
-
+print('ola')
 class MediaAluno():
     def maiorMedia(self):
         nota1 = int(input("Nota 1: "))
